@@ -1,0 +1,7 @@
+(1, 'Puhelinetu (700 - 800 euron puhelin))', 'Kaikilla työntekijöillä puhelinetu', 'must')
+(2, 'Pari päivää viikossa etänä', 'Työmatkoihin per päivä menee kaksi tuntia', 'must')
+(3, 'Internet liittymä työnantajan piikkiin', 'Monissa firmoissa näin, luultavasti myös Integratalla', 'toive')
+(4, 'Palkkataso 4-5 kilo euroa, voi maksaa enemmänkin', 'Perheen toimentulo + arvostus yleensä mitataan rahassa.', 'toive')
+(5, 'Työsuhdelippu (HSL), työnantajan kompensaatio kuukausilippuun.', 'Yleinen käytäntö', 'toive')
+(6, '6 kk harjoitelujakso aloituspalaverissamme sovittu myös koeajaksi joten työsopimus tulisi vakinaistaa ilman koeaikaa.', 'Yhteinen sopimus', 'must')
+(7, 'Normi edut voimaan eli smarttum kulttuurisetelit, työterveys jne.', 'Peruskäytäntö', 'must')

@@ -1,0 +1,33 @@
+body {
+  padding: 14px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  margin: 20px auto;
+  table-layout: auto;
+}
+
+.fixed {
+  table-layout: fixed;
+}
+
+
+tr{
+    hover {background-color: #ddd;}
+}
+
+table,
+td,
+th {
+  border-collapse: collapse;
+  background-color: rgb(19, 133, 43);
+}
+
+th,
+td {
+  padding: 10px;
+  border: solid 1px;
+  text-align: center;
+}

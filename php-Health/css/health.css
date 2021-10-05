@@ -1,0 +1,119 @@
+.form-style {
+    text-align: left;
+    display: inline-block;
+    margin: auto;
+}
+
+.el02 {
+    /* Text and background colour, blue on light gray */
+    color: #00f;
+    background-color: #ddd;
+    font-weight: bold;
+}
+
+.center {
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset {
+    text-align: center;
+    margin: auto;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+    background-color: gray;
+    box-sizing: border-box;
+    width: fit-content;
+}
+
+select {
+    width: auto;
+    margin-left: 20px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    /*background-color: #f1f1f1;*/
+}
+
+.buttonHolder {
+    text-align: center;
+}
+
+label {
+    float: left;
+    clear: left;
+    width: 20px;
+    text-align: left;
+    padding-right: 100px
+}
+
+textarea {
+    float: right;
+    margin-left: 5px;
+    padding: 5px 16px;
+}
+
+input[type=number] {
+    width: fit-content;
+    text-align: left;
+    float: right;
+    padding: 6px 3px;
+    size: 20px;
+}
+
+input[type=submit] {
+    margin-top: 6px;
+    padding-left: 10px;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+.btn-spacing {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px !important;
+}
+
+.healthTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    background-color: rgb(87, 90, 89);
+}
+
+.healthTable tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.healthTable tr:hover {
+    background-color: #ddd;
+}
+
+.healthTable thead {
+    display: table-header-group;
+    color: aquamarine;
+}
+
+.th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #af4c51;
+    color: black;
+    width: 20px;
+}
+
+.td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    width: 20px;
+}
